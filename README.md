@@ -1,3 +1,7 @@
+Cloned from the original author for CDN purposes. You probably do not want to use mine.
+
+
+
 ## particles.js
 
 ### A lightweight JavaScript library for creating particles.
